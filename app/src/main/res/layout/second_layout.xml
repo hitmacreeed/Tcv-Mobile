@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:paddingLeft="4.0dip"
+    android:paddingTop="150.0dip"
+    android:paddingRight="4.0dip"
+    android:paddingBottom="150.0dip"
+    android:layout_width="fill_parent" android:layout_height="wrap_content"
+    android:background="@drawable/back1"
+
+    >
+
+    <Button
+        android:layout_width="0.0dip" android:layout_height="fill_parent"
+        android:layout_weight="0.5"
+        android:background="@drawable/rcv_radio_pressed"
+        android:onClick="rcv"
+        android:id="@+id/button"
+        />
+
+    <Button
+
+        android:background="@drawable/rcv_plus_pressed"
+        android:onClick="rcvplus"
+        android:id="@+id/button2"
+        android:layout_width="0.0dip" android:layout_height="fill_parent"
+        android:layout_weight="0.5"
+        />
+</LinearLayout>

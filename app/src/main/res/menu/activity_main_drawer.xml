@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_first_layout"
+            android:icon="@drawable/monitor"
+            android:title="Live Stream" />
+        <item
+            android:id="@+id/nav_second_layout"
+            android:icon="@drawable/microphone"
+            android:title="Rcv/+ Online" />
+        <item
+            android:id="@+id/nav_third_layout"
+            android:icon="@drawable/newspaper"
+            android:title="Noticias" />
+
+
+        <item
+            android:id="@+id/tempo"
+            android:icon="@drawable/cloud"
+            android:title="Tempo" />
+
+    </group>
+
+    <item android:title="Extras">
+        <menu>
+
+            <item
+                android:id="@+id/email"
+                android:icon="@drawable/mail"
+                android:title="Questões/Sugestões" />
+
+            <item
+                android:id="@+id/contacto"
+                android:icon="@drawable/list"
+                android:title="Reportar Problema" />
+
+
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/share"
+                android:title="Partilhar" />
+
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/coding"
+                android:title="Programador" />
+
+
+        </menu>
+    </item>
+
+</menu>

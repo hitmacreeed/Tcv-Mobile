@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1057519969696",
+    "firebase_url": "https://tcv-mobile.firebaseio.com",
+    "project_id": "tcv-mobile",
+    "storage_bucket": "tcv-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057519969696:android:d52aaa81ef0ec8ff",
+        "android_client_info": {
+          "package_name": "com.rtc.tcv.tcvmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057519969696-dsuf250g5f1oovqbbaesml8uc6cpoqnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Aj1tFzNb5qnhz6kR4I_f_JMX2LdG3K8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057519969696:android:4127d5c1099b35d5",
+        "android_client_info": {
+          "package_name": "com.rtc.tcv.tcvmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057519969696-dsuf250g5f1oovqbbaesml8uc6cpoqnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Aj1tFzNb5qnhz6kR4I_f_JMX2LdG3K8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
